@@ -1,5 +1,6 @@
 <!--Banner-->
-![Kiran1689 Banner Image](https://cdn.leonardo.ai/users/14e1b146-3df1-4245-96da-96cf16b95794/generations/97179e25-0323-4cd6-b436-1cdb82846ae5/97179e25-0323-4cd6-b436-1cdb82846ae5.mp4)
+!Watch the video
+<video width="630" height="300" src="97179e25-0323-4cd6-b436-1cdb82846ae5 (1).mp4"></video>
 
 <!--Header Name-->
 <h1 align="center"> Hey! 👋 Gajendra here. </h1> 
@@ -15,12 +16,10 @@
 <br>
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Gajendra1092&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile_views" style="padding-right:20px;" />
 </p>
 
 ---
-<br />
-
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
