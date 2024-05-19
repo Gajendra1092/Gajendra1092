@@ -1,9 +1,10 @@
 <!--Banner-->
-!Watch the video
-<video width="630" height="300" src="97179e25-0323-4cd6-b436-1cdb82846ae5 (1).mp4"></video>
+
+ <img src="https://github.com/Gajendra1092/Gajendra1092/assets/121254700/570d612b-36a2-4b3c-b822-77a1af5d6a55" alt="Banner Image" style="width:100vw;height:50vh;">
+  
 
 <!--Header Name-->
-<h1 align="center"> Hey! 👋 Gajendra here. </h1> 
+<h1 align="center"> Hey!👋 Gajendra here. </h1> 
 <br /> 
 
 <!--Start Intro-->               
@@ -12,6 +13,7 @@
 - 🖥️ _**Full-stack Web Developer.**_
 - 🌱 Currently learning _**Blockchain**_.
 - 🔒 _**Cybersecurity**_ Enthusiast.
+
 <!--End Intro-->
 <br>
 <!--Profile Count Badge-->
@@ -23,7 +25,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,c,cpp,js,html,css,react,nodejs,express,git,vscode,matlab,postman,linux,kali&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,c,cpp,js,html,css,react,nodejs,express,git,vscode,matlab,postman,linux,kali&perline=10" />
 </p>
 <br />
 
@@ -119,5 +121,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+<!-- <img src ="https://github.com/Gajendra1092/Gajendra1092/assets/121254700/04d64518-4874-45dd-bd67-571faed655c9" style="width:100vw;"/> -->
 
 ------
