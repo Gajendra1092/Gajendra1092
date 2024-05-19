@@ -62,14 +62,14 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+<!--     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Gajendra1092/Space-Portfolio">
+        <a href="https://github.com/Gajendra1092/Space-Portfolio/portfolio_space">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Gajendra1092&repo=cryptos&theme=nightowl&show_owner=true" alt="Latest Project" />
         </a>
       </p>
-    </td>
+    </td> -->
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
