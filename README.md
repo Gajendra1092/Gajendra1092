@@ -11,7 +11,7 @@
 <h2 align="Center"> Aʙᴏᴜᴛ Mᴇ </h2>
 
 - 🖥️ _**Full-stack Web Developer.**_
-- 🌱 Currently learning _**Blockchain**_.
+- 🌱 Currently learning _**AI/ML**_.
 - 🔒 _**Cybersecurity**_ Enthusiast.
 
 <!--End Intro-->
