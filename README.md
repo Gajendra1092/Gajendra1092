@@ -12,7 +12,7 @@
 
 - 🖥️ _**Full-stack Web Developer.**_
 - 🌱 Currently learning _**AI/ML**_.
-- 🔒 _**Cybersecurity**_ Enthusiast.
+
 
 <!--End Intro-->
 <br>
