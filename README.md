@@ -35,6 +35,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gajendra1092&theme=dark&border_radius=8" alt="Gajendra1092" />
 </p>
 
+<!--GitHub Contribution Graph-->
+<h2 align="center">🌱 My Contribution Graph 🌱</h2>
+<p align="center">
+  <img src="https://ghchart.rshah.org/40D0E4/Gajendra1092" alt="Gajendra1092's Github Contribution Graph" />
+</p>
+
 <!--Dynamic Quote card updated everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
