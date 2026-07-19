@@ -29,6 +29,12 @@
 </p>
 <br />
 
+<!--Top Languages Card-->
+<h2 align="center">💻 Top Languages 💻</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gajendra1092&layout=compact&theme=dark&hide_border=true" alt="Gajendra1092" />
+</p>
+
 <!--Dynamic Quote card updated everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
