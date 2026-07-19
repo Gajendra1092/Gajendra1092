@@ -29,10 +29,10 @@
 </p>
 <br />
 
-<!--Top Languages Card-->
-<h2 align="center">💻 Top Languages 💻</h2>
+<!--GitHub Streak Stats-->
+<h2 align="center">🔥 Commits 🔥</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gajendra1092&layout=compact&theme=dark&hide_border=true" alt="Gajendra1092" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gajendra1092&theme=dark&border_radius=8" alt="Gajendra1092" />
 </p>
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
